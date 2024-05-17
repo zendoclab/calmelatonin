@@ -35857,7 +35857,7 @@ p=o.e
 p===$&&A.b()
 m=A.Nw(A.kn(p,new A.a1A(o,m),n),n,n)
 r=A.a([],r)
-if(o.cx)r.push(A.a9M(B.i,0,!1,B.i,B.i,A.ip("Lap "+o.cy+"\nOut "+B.c.M(o.ch,2)+"s / In "+B.c.M(o.ay,2)+"s\nRatio "+B.c.M(o.ch/o.ay,2),B.aI.Yi(12)),new A.a1B(),n))
+if(o.cx)r.push(A.a9M(B.i,0,!1,B.i,B.i,A.ip("Level "+o.cy+"\nOut "+B.c.M(o.ch,2)+"s / In "+B.c.M(o.ay,2)+"s\nRatio "+B.c.M(o.ch/o.ay,2),B.aI.Yi(12)),new A.a1B(),n))
 if(o.cx)r.push(B.hL)
 if(o.CW>1)r.push(A.a9L(B.j,B.zf,B.az,B.u,!1,o.gU3(),"Stop"))
 if(o.CW>1)r.push(B.hL)
@@ -35973,7 +35973,7 @@ r===$&&A.b()
 q=r.a
 q=r.b.V(0,q.gn(q))
 r=t.nA
-p=A.D5(A.a([A.PM(A.ip("Lap "+s.CW,B.aI.lh(B.az,18))),A.ip("In "+B.c.M(s.as,2)+"s",B.aI.lh(B.az,14)),B.G3,A.ip("Out "+B.c.M(s.ax,2)+"s",B.aI.lh(B.az,14))],r),B.bE,B.Cz,B.cE)
+p=A.D5(A.a([A.PM(A.ip("Level "+s.CW,B.aI.lh(B.az,18))),A.ip("In "+B.c.M(s.as,2)+"s",B.aI.lh(B.az,14)),B.G3,A.ip("Out "+B.c.M(s.ax,2)+"s",B.aI.lh(B.az,14))],r),B.bE,B.Cz,B.cE)
 o=s.d
 o===$&&A.b()
 o=o.x
