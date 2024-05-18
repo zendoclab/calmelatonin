@@ -35952,7 +35952,7 @@ A.a1C.prototype={
 $0(){var s,r=this.a
 r.x=B.az
 s=r.as
-if(s>0&&r.ax>60){++r.CW
+if(s>0&&r.ax+r.db>60){++r.CW
 r.ay+=s
 r.ch=r.ch+r.ax
 r.as=r.ax=0}},
