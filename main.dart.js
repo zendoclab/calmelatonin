@@ -39884,7 +39884,7 @@ A.aa0.prototype={
 $0(){var s,r=this.a
 r.x=B.as
 s=r.as
-if(s>0&&r.ax+r.dy>3){++r.cy
+if(s>0&&r.ax+r.dy>60){++r.cy
 r.ay+=s
 r.ch=r.ch+r.ax+r.dy
 r.as=r.ax=0}},
@@ -74435,7 +74435,7 @@ B.fJ=new A.aN(4e5)
 B.Ah=new A.aN(5e4)
 B.kc=new A.aN(5e5)
 B.cx=new A.aN(6e5)
-B.Ai=new A.aN(6e6)
+B.Ai=new A.aN(6e7)
 B.fK=new A.aN(75e3)
 B.Aj=new A.aN(-38e3)
 B.Ak=new A.eo(16,0,24,0)
