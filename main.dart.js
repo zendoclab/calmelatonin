@@ -41607,7 +41607,7 @@ n.push(A.anW(B.k,l,l,B.av,B.v,A.fu(m.w,B.bb.eu(B.av)),m.ga0z(),"Breath"))
 return new A.xf(new A.tI(B.PO,s,q,B.k,new A.Op(l,l,1/0,56),l),new A.ID(k,l),A.I5(n,B.by,B.qk,B.c3),new A.Eg(r,16,B.I5,o,l),m.k2)}}
 A.aeo.prototype={
 $1(a){var s=null
-return A.ajf(A.b([A.kM(A.aA0(A.akN(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.iT("https://zendoclab.github.io/calmelatonin-completely-at-ease"))),1)],t.G),B.by,B.c2,B.c3)},
+return A.ajf(A.b([A.kM(A.aA0(A.akN(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.iT("https://zendoclab.blogspot.com/2024/05/calmelatonin-embrace-serenity.html#main"))),1)],t.G),B.by,B.c2,B.c3)},
 $S:270}
 A.aep.prototype={
 $0(){var s,r=this.a,q=r.cy
